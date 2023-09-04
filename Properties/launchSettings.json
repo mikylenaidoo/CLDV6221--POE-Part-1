@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Vaccination_Status_Query": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7292",
+      "launchBrowser": false
+    }
+  }
+}
